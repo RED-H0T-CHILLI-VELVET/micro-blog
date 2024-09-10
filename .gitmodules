@@ -1,0 +1,4 @@
+[submodule "verbosemodeblog/public"]
+	path = verbosemodeblog/public
+	url = https://github.com/RED-H0T-CHILLI-VELVET/verbose-mode.github.io.git
+	branch = main

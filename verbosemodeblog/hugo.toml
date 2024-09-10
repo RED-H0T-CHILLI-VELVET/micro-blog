@@ -1,0 +1,4 @@
+baseURL = 'https://verbose-mode.github.io/'
+languageCode = 'en-us'
+title = 'Verbose Mode'
+theme = 'hugo-ficurinia'

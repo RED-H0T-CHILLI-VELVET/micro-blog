@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Posts on Verbose Mode</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Verbose Mode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 05:15:48 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><icon>http://localhost:1313/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>1st Post</title>
+      <link>http://localhost:1313/posts/1st_post/</link>
+      <pubDate>Tue, 10 Sep 2024 05:15:48 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/1st_post/</guid>
+      <description><![CDATA[<p>After a journey from the Mountainhomes into the
+forbidding wilderness beyond, your harsh trek has finally ended.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
